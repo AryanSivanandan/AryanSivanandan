@@ -5,21 +5,19 @@
   <div align="center" style="position:relative; margin:0; padding:0; line-height:0;" />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00d4ff,100:00ffbf&section=header&stroke=00aaff&strokeWidth=1&&fontAlign=50&fontAlignY=50&fontColor=00f6ff&fontSize=32&animation=twinkling"width="100%"style="padding:0; margin:0; display:block;"
 />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00d4ff,50:00fff0,100:00ffbf" width="100%" />
-</p>
 
-## 🌱 About Me
+
+##  About Me
 
 - **4th year B.Tech (IT)** @ PICT, Pune (2022–2026)  
-- I enjoy creating automated project and love old tech!
+- I enjoy creating automated projects and love old tech!
 - Python enjoyer 🐍
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00d4ff,50:00fff0,100:00ffbf" width="100%" />
 </p>
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,html,css,fastapi,django,postgres,redis,git,github,docker,linux" />
@@ -31,7 +29,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00d4ff,50:00fff0,100:00ffbf" width="100%" />
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img
