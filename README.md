@@ -1,30 +1,11 @@
-<!-- 🌊 Aqua / Frutiger Aero banner -->
-<p align="center">
-  <img src="https://images4.alphacoders.com/134/thumb-1920-1349540.png" width="100%" alt="Aqua Banner" />
-</p>
-
-<!-- 🌬️ Rising bubbles animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AryanSivanandan/cdn/main/bubbles.svg" width="100%" alt="Bubbles animation" />
-</p>
-
-<!-- 🧊 Floating Glass Name Card -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Aryan%20Sivanandan&fontSize=52&fontAlignY=50&color=0:ffffff00,100:ffffff00&stroke=00d4ff&strokeWidth=2" 
-    width="70%"
-    style="border-radius: 18px; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);" 
-  />
-</p>
-
-<!-- 🌊 Glossy Waving Banner (XP style shadow) -->
-<p align="center">
+<div style="padding:0; margin:0; line-height:0;">
+  <img src="https://images4.alphacoders.com/134/thumb-1920-1349540.png" width="100%" style="margin:0; padding:0; display:block;" />
+  <img src="https://raw.githubusercontent.com/AryanSivanandan/AryanSivanandan/main/aqua-banner.svg" width="100%" style="margin:0; padding:0; display:block;" />
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00d4ff,100:00ffbf&section=footer&reversal=false&stroke=00aaff&strokeWidth=1"
     width="100%"
     style="filter: drop-shadow(0px 6px 12px rgba(0,200,255,0.45));"
-  />
-</p>
+</div>
 
 <!-- 📟 Typing Lines -->
 <p align="center">
