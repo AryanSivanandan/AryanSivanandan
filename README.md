@@ -7,7 +7,7 @@
   width="100%"
 />
 
-## 👋 About Me
+##  About Me
 
 - **4th year B.Tech (IT)** @ PICT, Pune (2022–2026)  
 - I enjoy creating automated projects and love old tech  
@@ -17,7 +17,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00d4ff,50:00fff0,100:00ffbf" width="100%" />
 </p>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,html,css,fastapi,django,postgres,redis,git,github,docker,linux" />
@@ -29,31 +29,22 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00d4ff,50:00fff0,100:00ffbf" width="100%" />
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AryanSivanandan&show_icons=true&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://komarev.com/ghpvc/?username=AryanSivanandan&color=00d4ff&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=AryanSivanandan&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSivanandan&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://img.shields.io/github/followers/AryanSivanandan?label=Followers&style=for-the-badge&color=00d4ff" />
+  <img src="https://img.shields.io/github/stars/AryanSivanandan?label=Total%20Stars&style=for-the-badge&color=00ffbf" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00d4ff,50:00fff0,100:00ffbf" width="100%" />
 </p>
 
-## 📡 Connect
+##  Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-sivanandan-950068305/">
@@ -65,10 +56,6 @@
   <a href="https://github.com/AryanSivanandan">
     <img src="https://img.shields.io/badge/GitHub-AryanSivanandan-181717?style=for-the-badge&logo=github" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AryanSivanandan&color=00d4ff&style=flat-square" />
 </p>
 
 <p align="center">
